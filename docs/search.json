@@ -34,7 +34,17 @@
     "href": "summary.html",
     "title": "2  Summary",
     "section": "",
-    "text": "2.1 inscription\nIn summary, this book has no content whatsoever. hello\nTesting",
+    "text": "2.1 inscription\nIn summary, this book has no content whatsoever. hello\nOSF\nGithub",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#inscription",
+    "href": "summary.html#inscription",
+    "title": "2  Summary",
+    "section": "",
+    "text": "2.1.1 Literate programming\nR and Python",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
     ]

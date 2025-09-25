@@ -8,4 +8,10 @@ In summary, this book has no content whatsoever. hello
 
 ## inscription
 
-Testing 
+OSF
+
+Github
+
+### Literate programming
+
+R and Python 
