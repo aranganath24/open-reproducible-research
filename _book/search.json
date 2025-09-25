@@ -14,7 +14,17 @@
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "1.1 Motivation\nprimer on open research",
+    "text": "1.1 Motivation\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\nprimer on open research",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#motivation",
+    "href": "intro.html#motivation",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -24,7 +34,7 @@
     "href": "summary.html",
     "title": "2  Summary",
     "section": "",
-    "text": "2.1 inscription\nTesting",
+    "text": "2.1 inscription\nIn summary, this book has no content whatsoever. hello\nTesting",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
     ]
@@ -37,16 +47,6 @@
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "References"
-    ]
-  },
-  {
-    "objectID": "intro.html#motivation",
-    "href": "intro.html#motivation",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
   }
 ]

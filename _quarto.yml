@@ -18,7 +18,7 @@ format:
     theme: Cosmo
     toc: true 
     toc-depth: 3
-    output-dire: docs 
+    output-dir: docs 
   pdf:
     documentclass: scrreprt
 
