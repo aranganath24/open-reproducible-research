@@ -9,3 +9,5 @@ See @knuth84 for additional discussion of literate programming.
 ```
 
 ## Motivation
+
+primer on open research
