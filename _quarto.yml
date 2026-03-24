@@ -4,6 +4,8 @@ project:
 book:
   title: "Open and Reproducible Research"
   author: "Aditya Ranganath"
+  repo-url: https://github.com/aranganath24/open-reproducible-research
+  repo-actions: [source, edit, issue] 
   date: "9/18/2025"
   chapters:
     - index.qmd
@@ -16,7 +18,8 @@ bibliography: references.bib
 format:
   html:
     theme: Cosmo
-    toc: true 
+    toc: true
+    include-after-body: footer.html 
     toc-depth: 3
     output-dir: docs/ 
   pdf:
